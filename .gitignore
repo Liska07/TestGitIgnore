@@ -1,3 +1,8 @@
+#Ignore directories
 .vs/
 obj/
 bin/
+MyDirectory/
+
+#Ignore all text files
+*.txt
